@@ -1,0 +1,6 @@
+- something where a pet starts small and cute but grows way too much and becomes a problem
+- stardew valley clone
+- some bullet-hell/movement-ish game that uses only 3 directions (for the 3 available buttons)
+- snake roguelike with procedural rooms (SELECTED)
+- 3D space-explorer rpg
+- doom.exe
