@@ -6,3 +6,8 @@ the original idea was "snake but with multiple rooms". turns out, room generatio
 
 ## how to run it?
 since it's pygame, i *should* be able to web-pack it with pygbag, but i don't think that works with the libs required for hackapet development. so, install the libs that hackapet needs (`pip install blinka-displayio-pygamedisplay adafruit-circuitpython-display-text`), then run `main.py`.
+
+## screenshots
+im writing this from my school laptop which highkey doesn't have the processing power to run OBS so have a screenshot or two
+![image](https://github.com/user-attachments/assets/191f8ede-9ac0-44fb-a7ed-18a3ee381445)
+![image](https://github.com/user-attachments/assets/9445068b-147d-4ba0-89ff-cef08761d152)
